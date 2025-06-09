@@ -144,3 +144,7 @@ int main(){
     }
     printf("]\n");
 }
+
+// to get number of occurences 
+// count = (last - first) + 1
+// if first == -1 doesn't exist and count = 0
