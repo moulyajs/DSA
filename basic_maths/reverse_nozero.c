@@ -16,3 +16,8 @@ int main(){
     printf("\n");
     return 0;
 }
+
+//for negative numbers 
+// sign = (n<0)?-1:1;
+// abs(n)
+// sign * revnum
